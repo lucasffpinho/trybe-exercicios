@@ -1,0 +1,3 @@
+Novo exercício sobre unix.
+Revisando a matéria.
+Início da jornada Trybe.
