@@ -1,0 +1,20 @@
+h2 {
+  color: green;
+  font-size: 2em;
+}
+body {
+  background-color: aquamarine;
+  font-size: 20px;
+}
+#sobre {
+  background-color: red;
+}
+.p {
+  color: wheat;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  font-style: italic;
+  line-height: 40px;
+  text-align: center;
+  text-decoration: underline;
+}
