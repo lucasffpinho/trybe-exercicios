@@ -55,28 +55,32 @@ if (a + b + c == 180) {
 }
 
 // exercício 6
-function movimentosPecasDeXadrez() = ["rei", "dama", "torre", "bispo", "cavalo", "peão"]
 
-if(rei){
-    console.log("uma casa em qualquer direção");
-}else if(dama){
-    console.log("casas ilimitadas em qualquer direção");
-}else if(torre){
-    console.log("casas ilimitadas vertical ou horizontalmente");
-}else if(bispo){
-    console.log("casas ilimitadas nas diagonais");
-}else if(cavalo){
-    console.log("três casas em L");
-}else (peão){
-    console.log("uma casa verticalmente");
+
+
+function movimentosXadrez(pecas) {
+
+    var pecas = ["rei", "rainha", "torre", "bispo", "cavalo", "peão"]
+
+    if (pecas = "rei") {
+        console.log("uma casa em qualquer direção");
+    } if (pecas = "rainha") {
+        console.log("casas ilimitadas em qualquer direção");
+    } if (pecas = "torre") {
+        console.log("casas ilimitadas vertical ou horizontalmente");
+    } if (pecas = "bispo") {
+        console.log("casas ilimitadas nas diagonais");
+    } if (pecas = "cavalo") {
+        console.log("três casas em L");
+    } if (pecas = "peão") {
+        console.log("uma casa verticalmente");
+    }
+    return ("rei")
 }
 
-return(rei)
-
-
-
-
 // exercício 7
+
+
 // exercício 8
 // exercício 9
 // exercício 10
