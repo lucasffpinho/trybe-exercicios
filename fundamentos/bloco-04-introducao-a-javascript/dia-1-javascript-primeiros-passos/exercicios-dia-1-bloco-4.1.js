@@ -75,7 +75,7 @@ function movimentosXadrez(pecas) {
     } if (pecas = "peão") {
         console.log("uma casa verticalmente");
     }
-    return ("rei")
+    movimentosXadrez("rei")
 }
 
 // exercício 7
