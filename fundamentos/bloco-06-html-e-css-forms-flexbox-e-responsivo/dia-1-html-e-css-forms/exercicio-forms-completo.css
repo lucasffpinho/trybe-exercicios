@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+header {
+    padding: 20px;
+    color:rgb(68, 70, 71);
+  }
+
+.secao {
+    margin: auto;
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: ;
+    text-align: ;
+    width: 40%;
+}
+
+.div {
+    text-align: left; 
+}
+/* ^ não foi T_T */
